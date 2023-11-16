@@ -1,0 +1,7 @@
+D:\VS projects\software_Engineering\software_Engineering\bin\Debug\software_Engineering.exe.config
+D:\VS projects\software_Engineering\software_Engineering\bin\Debug\software_Engineering.exe
+D:\VS projects\software_Engineering\software_Engineering\bin\Debug\software_Engineering.pdb
+D:\VS projects\software_Engineering\software_Engineering\obj\Debug\software_Engineering.csproj.AssemblyReference.cache
+D:\VS projects\software_Engineering\software_Engineering\obj\Debug\software_Engineering.csproj.CoreCompileInputs.cache
+D:\VS projects\software_Engineering\software_Engineering\obj\Debug\software_Engineering.exe
+D:\VS projects\software_Engineering\software_Engineering\obj\Debug\software_Engineering.pdb
